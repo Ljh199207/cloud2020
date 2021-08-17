@@ -3,6 +3,9 @@ server:
 eureka:
   instance:
     hostname: localhost #eureka服务端的实例名称
+  server:
+    enable-self-preservation: false
+    eviction-interval-timer-in-ms: 2000
   client:
     #false 表示不向注册中心注册自己
     register-with-eureka: false
