@@ -1,15 +1,11 @@
-package com.atguigu.springcloud.controller;
+package springcloud.controller;
 
 import com.atguigu.springcloud.entities.Payment;
-import com.atguigu.springcloud.result.CommonResult;
-import com.atguigu.springcloud.service.PayMentService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.cloud.client.ServiceInstance;
-import org.springframework.cloud.client.discovery.DiscoveryClient;
 import org.springframework.web.bind.annotation.*;
-
-import java.util.List;
+import springcloud.result.CommonResult;
+import springcloud.service.PayMentService;
 
 /**
  * @author jinghailiang
@@ -23,28 +19,9 @@ public class PaymentController {
 
     private final PayMentService payMentService;
 
-    private final DiscoveryClient discoveryClient;
-
-
-    public PaymentController(PayMentService payMentService, DiscoveryClient discoveryClient) {
+    public PaymentController(PayMentService payMentService) {
         this.payMentService = payMentService;
-        this.discoveryClient = discoveryClient;
     }
-
-    @GetMapping("payment/discovery")
-    public Object discovery(){
-        List<String> service = discoveryClient.getServices();
-        for (String element:service) {
-            log.info("***element:"+element);
-        }
-        List<ServiceInstance> instances = discoveryClient.getInstances("CLOUD-PAYMENT-SERVICE");
-        for (ServiceInstance instance : instances) {
-            log.info(instance.getServiceId()+"\t"+instance.getHost()+"\t"+instance.getPort()+"\t"+instance.getUri());
-        }
-
-        return this.discoveryClient;
-    }
-
 
     @PostMapping(value = "/payment/create")
     public CommonResult create(@RequestBody Payment payment)
