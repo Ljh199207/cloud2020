@@ -1,0 +1,84 @@
+2021-09-18 09:00:45,210 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 09:00:45,225 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.30:3377_true,
+
+2021-09-18 09:00:45,255 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 09:00:45,255 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.30:3377_true,
+
+2021-09-18 09:00:45,256 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.30:3377_true,
+
+2021-09-18 09:00:45,256 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.30:3377_true,
+
+2021-09-18 09:01:01,046 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 09:01:01,046 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+
+2021-09-18 09:01:01,047 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 09:01:01,047 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+
+2021-09-18 09:31:29,893 INFO DEFAULT_GROUP@@nacos-config2 {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 09:31:29,898 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config2, ips: 192.168.3.30:3377_true,
+
+2021-09-18 09:47:40,876 INFO DEFAULT_GROUP@@nacos-config2 {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 09:47:40,877 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config2, ips: 
+
+2021-09-18 13:55:13,344 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 13:55:13,359 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.30:3377_true,
+
+2021-09-18 14:10:36,470 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 14:10:36,472 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+
+2021-09-18 14:11:06,238 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 14:11:06,239 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.30:3377_true,
+
+2021-09-18 14:11:06,250 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.30:3377_true,
+
+2021-09-18 14:35:35,947 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 14:35:35,948 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+
+2021-09-18 14:36:05,050 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 14:36:05,051 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.30:3377_true,
+
+2021-09-18 14:36:05,052 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.30:3377_true,
+
+2021-09-18 15:48:04,999 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 15:48:05,002 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+
+2021-09-18 15:49:06,798 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 15:49:06,804 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.30:3377_true,
+
+2021-09-18 15:52:43,351 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 15:52:43,353 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+
+2021-09-18 16:04:59,873 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 16:04:59,873 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.30:3377_true,
+
+2021-09-18 16:04:59,874 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 16:04:59,874 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.30:3377_true,
+
+2021-09-18 16:04:59,875 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.30:3377_true,
+
+2021-09-18 16:04:59,876 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.30:3377_true,
+
+2021-09-18 16:43:35,829 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 16:43:35,834 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+
+2021-09-18 16:43:35,836 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.30:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-09-18 16:43:35,836 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+

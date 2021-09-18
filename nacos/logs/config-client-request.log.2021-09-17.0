@@ -1,0 +1,10 @@
+2021-09-17 17:37:33,308|46|null|127.0.0.1|get|nacos-config-client.yaml|DEV_GROUP|7d8f0f5a-6a53-4785-9686-dd460158e5d4||unknown
+2021-09-17 17:38:46,480|12|null|127.0.0.1|get|nacos-config-client.yaml|DEV_GROUP|7d8f0f5a-6a53-4785-9686-dd460158e5d4||unknown
+2021-09-17 17:47:55,514|612|true|0:0:0:0:0:0:0:1|publish|nacos-config-client.yaml|DEFAULT_GROUP||2d087b342f477518148ba93a364bf1d9|null
+2021-09-17 17:48:31,402|89|true|0:0:0:0:0:0:0:1|publish|nacos-config-client-dev.yaml|DEFAULT_GROUP||fc15eaad98b1fc1ed92a4a83b22db113|null
+2021-09-17 17:49:02,750|1|null|127.0.0.1|get|nacos-config-client.yaml|DEV_GROUP|7d8f0f5a-6a53-4785-9686-dd460158e5d4||unknown
+2021-09-17 17:50:35,898|1|null|127.0.0.1|get|nacos-config-client.yaml|DEFAULT_GROUP|7d8f0f5a-6a53-4785-9686-dd460158e5d4||unknown
+2021-09-17 17:51:43,283|1|null|127.0.0.1|get|nacos-config-client.yaml|DEFAULT_GROUP|7d8f0f5a-6a53-4785-9686-dd460158e5d4||unknown
+2021-09-17 17:55:16,117|24|true|0:0:0:0:0:0:0:1|publish|nacos-config-client|DEFAULT_GROUP||9196211f60ed4eec27115346c7525388|null
+2021-09-17 17:55:41,920|2|null|127.0.0.1|get|nacos-config-client.yaml|DEFAULT_GROUP|7d8f0f5a-6a53-4785-9686-dd460158e5d4||unknown
+2021-09-17 18:04:49,675|1|null|127.0.0.1|get|nacos-config-client.yaml|DEFAULT_GROUP|7d8f0f5a-6a53-4785-9686-dd460158e5d4||unknown

@@ -1,0 +1,96 @@
+2021-09-17 16:38:54,344 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2021-09-17 16:54:20,425 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2021-09-17 17:04:40,235 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2021-09-17 17:04:47,824 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2021-09-17 17:06:02,506 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:06:07,546 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:06:12,569 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:06:17,582 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:06:22,597 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:06:27,622 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:06:32,643 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:06:37,669 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:06:42,692 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:06:47,720 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:06:52,766 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:06:57,819 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:07:02,908 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:07:07,989 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:07:13,062 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:07:18,094 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:07:23,107 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:07:28,128 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:07:33,148 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:07:38,174 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:07:43,194 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:07:48,211 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:07:53,233 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:07:58,245 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:08:03,254 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:08:08,278 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:08:13,297 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:08:18,312 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:08:23,330 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:17:16,698 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2021-09-17 17:17:18,371 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2021-09-17 17:17:18,457 INFO serviceName: DEFAULT_GROUP@@nacos-payment-provider changed, schedule push for: 192.168.3.30:55024, agent: Nacos-Java-Client:v1.1.1, key: 192.168.3.30,55024,32007885986333
+
+2021-09-17 17:17:18,457 INFO send udp packet: 192.168.3.30,55024,32007885986333
+
+2021-09-17 17:17:19,626 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2021-09-17 17:17:19,627 INFO serviceName: DEFAULT_GROUP@@nacos-payment-provider changed, schedule push for: 192.168.3.30:55024, agent: Nacos-Java-Client:v1.1.1, key: 192.168.3.30,55024,32009140650708
+
+2021-09-17 17:17:19,627 INFO send udp packet: 192.168.3.30,55024,32009140650708
+
+2021-09-17 17:17:28,464 INFO retry to push data, key: 192.168.3.30,55024,32007885986333
+
+2021-09-17 17:17:28,476 INFO send udp packet: 192.168.3.30,55024,32007885986333
+
+2021-09-17 17:17:29,633 INFO retry to push data, key: 192.168.3.30,55024,32009140650708
+
+2021-09-17 17:17:29,633 INFO send udp packet: 192.168.3.30,55024,32009140650708
+
+2021-09-17 17:17:38,483 INFO retry to push data, key: 192.168.3.30,55024,32007885986333
+
+2021-09-17 17:17:38,484 WARN max re-push times reached, retry times 2, key: 192.168.3.30,55024,32007885986333
+
+2021-09-17 17:17:39,638 INFO retry to push data, key: 192.168.3.30,55024,32009140650708
+
+2021-09-17 17:17:39,640 WARN max re-push times reached, retry times 2, key: 192.168.3.30,55024,32009140650708
+

@@ -1,0 +1,16 @@
+2021-09-17 17:37:33,304|192.168.3.30|nacos-config-client.yaml|DEV_GROUP|7d8f0f5a-6a53-4785-9686-dd460158e5d4|unknown|-1|pull|not-found|-1|127.0.0.1
+2021-09-17 17:38:46,467|192.168.3.30|nacos-config-client.yaml|DEV_GROUP|7d8f0f5a-6a53-4785-9686-dd460158e5d4|unknown|-1|pull|not-found|-1|127.0.0.1
+2021-09-17 17:47:55,514|192.168.3.30|nacos-config-client.yaml|DEFAULT_GROUP|null|null|1631872074913|192.168.3.30|persist|pub|-1|2d087b342f477518148ba93a364bf1d9
+2021-09-17 17:47:56,344|192.168.3.30|nacos-config-client.yaml|DEFAULT_GROUP|null|null|1631872074913|192.168.3.30|dump|ok|1430|38
+2021-09-17 17:47:56,358|192.168.3.30|nacos-config-client.yaml|DEFAULT_GROUP|null|null|1631872074913|192.168.3.30|notify|ok|1420|192.168.3.30:8848
+2021-09-17 17:48:31,398|192.168.3.30|nacos-config-client-dev.yaml|DEFAULT_GROUP|null|null|1631872111313|192.168.3.30|persist|pub|-1|fc15eaad98b1fc1ed92a4a83b22db113
+2021-09-17 17:48:31,484|192.168.3.30|nacos-config-client-dev.yaml|DEFAULT_GROUP|null|null|1631872111313|192.168.3.30|notify|ok|171|192.168.3.30:8848
+2021-09-17 17:48:31,574|192.168.3.30|nacos-config-client-dev.yaml|DEFAULT_GROUP|null|null|1631872111313|192.168.3.30|dump|ok|261|41
+2021-09-17 17:49:02,749|192.168.3.30|nacos-config-client.yaml|DEV_GROUP|7d8f0f5a-6a53-4785-9686-dd460158e5d4|unknown|-1|pull|not-found|-1|127.0.0.1
+2021-09-17 17:50:35,897|192.168.3.30|nacos-config-client.yaml|DEFAULT_GROUP|7d8f0f5a-6a53-4785-9686-dd460158e5d4|unknown|-1|pull|not-found|-1|127.0.0.1
+2021-09-17 17:51:43,282|192.168.3.30|nacos-config-client.yaml|DEFAULT_GROUP|7d8f0f5a-6a53-4785-9686-dd460158e5d4|unknown|-1|pull|not-found|-1|127.0.0.1
+2021-09-17 17:55:16,116|192.168.3.30|nacos-config-client|DEFAULT_GROUP|null|null|1631872516092|192.168.3.30|persist|pub|-1|9196211f60ed4eec27115346c7525388
+2021-09-17 17:55:16,149|192.168.3.30|nacos-config-client|DEFAULT_GROUP|null|null|1631872516092|192.168.3.30|notify|ok|57|192.168.3.30:8848
+2021-09-17 17:55:16,222|192.168.3.30|nacos-config-client|DEFAULT_GROUP|null|null|1631872516092|192.168.3.30|dump|ok|130|38
+2021-09-17 17:55:41,919|192.168.3.30|nacos-config-client.yaml|DEFAULT_GROUP|7d8f0f5a-6a53-4785-9686-dd460158e5d4|unknown|-1|pull|not-found|-1|127.0.0.1
+2021-09-17 18:04:49,674|192.168.3.30|nacos-config-client.yaml|DEFAULT_GROUP|7d8f0f5a-6a53-4785-9686-dd460158e5d4|unknown|-1|pull|not-found|-1|127.0.0.1

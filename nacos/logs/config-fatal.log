@@ -1,0 +1,14 @@
+2021-09-18 08:55:49,711 WARN isQuickStart:false
+
+2021-09-18 08:58:59,776 WARN isQuickStart:false
+
+2021-09-18 09:04:29,972 WARN isQuickStart:false
+
+2021-09-18 09:31:23,167 WARN isQuickStart:false
+
+2021-09-18 13:55:08,316 WARN isQuickStart:false
+
+2021-09-18 15:48:57,081 WARN [master-db] jdbc:mysql://172.20.148.146:3306/test?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true&useUnicode=true&useSSL=false&serverTimezone=UTC
+
+2021-09-18 15:49:00,029 WARN isQuickStart:false
+

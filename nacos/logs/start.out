@@ -1,0 +1,50 @@
+/Library/Java/JavaVirtualMachines/jdk-11.0.11.jdk/Contents/Home/bin/java  -Xms512m -Xmx512m -Xmn256m -Dnacos.standalone=true -Dnacos.member.list= -Xlog:gc*:file=/Users/jinghailiang/IdeaProjects/cloud2020/nacos/logs/nacos_gc.log:time,tags:filecount=10,filesize=102400 -Dloader.path=/Users/jinghailiang/IdeaProjects/cloud2020/nacos/plugins/health,/Users/jinghailiang/IdeaProjects/cloud2020/nacos/plugins/cmdb -Dnacos.home=/Users/jinghailiang/IdeaProjects/cloud2020/nacos -jar /Users/jinghailiang/IdeaProjects/cloud2020/nacos/target/nacos-server.jar  --spring.config.additional-location=file:/Users/jinghailiang/IdeaProjects/cloud2020/nacos/conf/ --logging.config=/Users/jinghailiang/IdeaProjects/cloud2020/nacos/conf/nacos-logback.xml --server.max-http-header-size=524288
+
+         ,--.
+       ,--.'|
+   ,--,:  : |                                           Nacos 1.4.1
+,`--.'`|  ' :                       ,---.               Running in stand alone mode, All function modules
+|   :  :  | |                      '   ,'\   .--.--.    Port: 8848
+:   |   \ | :  ,--.--.     ,---.  /   /   | /  /    '   Pid: 7375
+|   : '  '; | /       \   /     \.   ; ,. :|  :  /`./   Console: http://192.168.3.30:8848/nacos/index.html
+'   ' ;.    ;.--.  .-. | /    / ''   | |: :|  :  ;_
+|   | | \   | \__\/: . ..    ' / '   | .; : \  \    `.      https://nacos.io
+'   : |  ; .' ," .--.; |'   ; :__|   :    |  `----.   \
+|   | '`--'  /  /  ,.  |'   | '.'|\   \  /  /  /`--'  /
+'   : |     ;  :   .'   \   :    : `----'  '--'.     /
+;   |.'     |  ,     .-./\   \  /            `--'---'
+'---'        `--`---'     `----'
+
+2021-09-18 15:48:51,276 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@30272916' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-09-18 15:48:51,310 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-09-18 15:48:53,023 INFO Tomcat initialized with port(s): 8848 (http)
+
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.springframework.boot.loader.jar.Handler (file:/Users/jinghailiang/IdeaProjects/cloud2020/nacos/target/nacos-server.jar) to constructor sun.net.www.protocol.jar.Handler()
+WARNING: Please consider reporting this to the maintainers of org.springframework.boot.loader.jar.Handler
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2021-09-18 15:48:54,209 INFO Root WebApplicationContext: initialization completed in 14668 ms
+
+2021-09-18 15:49:02,208 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2021-09-18 15:49:02,537 INFO Adding welcome page: class path resource [static/index.html]
+
+2021-09-18 15:49:03,733 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2021-09-18 15:49:03,870 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@21bd128b, org.springframework.security.web.context.SecurityContextPersistenceFilter@416d56f2, org.springframework.security.web.header.HeaderWriterFilter@46e3559f, org.springframework.security.web.csrf.CsrfFilter@18d003cd, org.springframework.security.web.authentication.logout.LogoutFilter@20580d4e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1b01a0d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@64da6cbd, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2d0b05, org.springframework.security.web.session.SessionManagementFilter@2eda072, org.springframework.security.web.access.ExceptionTranslationFilter@388623ad]
+
+2021-09-18 15:49:04,194 INFO Initializing ExecutorService 'taskScheduler'
+
+2021-09-18 15:49:04,239 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2021-09-18 15:49:04,707 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2021-09-18 15:49:04,727 INFO Nacos started successfully in stand alone mode. use external storage
+
+2021-09-18 15:49:05,796 INFO Initializing Servlet 'dispatcherServlet'
+
+2021-09-18 15:49:05,849 INFO Completed initialization in 52 ms
+
